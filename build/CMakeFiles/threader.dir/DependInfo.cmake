@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/daniel/projects/testing/deltascope_cpp/libs/threader/src/threader.cpp" "/home/daniel/projects/testing/deltascope_cpp/libs/threader/build/CMakeFiles/threader.dir/src/threader.cpp.o" "gcc" "/home/daniel/projects/testing/deltascope_cpp/libs/threader/build/CMakeFiles/threader.dir/src/threader.cpp.o.d"
+  "/home/wegkamp/development/lambdascope/libs/threader/src/threader.cpp" "/home/wegkamp/development/lambdascope/libs/threader/build/CMakeFiles/threader.dir/src/threader.cpp.o" "gcc" "/home/wegkamp/development/lambdascope/libs/threader/build/CMakeFiles/threader.dir/src/threader.cpp.o.d"
   )
 
 # Targets to which this target links.

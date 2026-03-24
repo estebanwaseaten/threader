@@ -1,4 +1,4 @@
-# Install script for directory: /home/daniel/projects/testing/deltascope_cpp/libs/threader
+# Install script for directory: /home/wegkamp/development/lambdascope/libs/threader
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

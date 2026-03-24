@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -Dthreader_EXPORTS
 
-CXX_INCLUDES = -I/home/daniel/projects/testing/deltascope_cpp/libs/threader/include -I/home/daniel/projects/testing/deltascope_cpp/libs/threader/src
+CXX_INCLUDES = -I/home/wegkamp/development/lambdascope/libs/threader/include -I/home/wegkamp/development/lambdascope/libs/threader/src
 
 CXX_FLAGS = -fPIC -pg -std=gnu++17
 

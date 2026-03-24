@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/daniel/projects/testing/deltascope_cpp/libs/threader/libthreader.pdb"
-  "/home/daniel/projects/testing/deltascope_cpp/libs/threader/libthreader.so"
+  "/home/wegkamp/development/lambdascope/libs/threader/libthreader.pdb"
+  "/home/wegkamp/development/lambdascope/libs/threader/libthreader.so"
   "CMakeFiles/threader.dir/src/threader.cpp.o"
   "CMakeFiles/threader.dir/src/threader.cpp.o.d"
 )

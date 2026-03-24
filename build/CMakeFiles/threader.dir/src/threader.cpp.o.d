@@ -1,7 +1,7 @@
-/home/daniel/projects/testing/deltascope_cpp/libs/threader/build/CMakeFiles/threader.dir/src/threader.cpp.o: \
- /home/daniel/projects/testing/deltascope_cpp/libs/threader/src/threader.cpp \
+/home/wegkamp/development/lambdascope/libs/threader/build/CMakeFiles/threader.dir/src/threader.cpp.o: \
+ /home/wegkamp/development/lambdascope/libs/threader/src/threader.cpp \
  /usr/include/stdc-predef.h \
- /home/daniel/projects/testing/deltascope_cpp/libs/threader/include/threader/threader.h \
+ /home/wegkamp/development/lambdascope/libs/threader/include/threader/threader.h \
  /usr/include/c++/12/thread /usr/include/c++/12/bits/std_thread.h \
  /usr/include/aarch64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/12/bits/os_defines.h \
@@ -134,7 +134,7 @@
  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
  /usr/include/c++/12/bits/charconv.h \
  /usr/include/c++/12/bits/basic_string.tcc /usr/include/c++/12/chrono \
- /home/daniel/projects/testing/deltascope_cpp/libs/threader/src/debug.h \
+ /home/wegkamp/development/lambdascope/libs/threader/src/debug.h \
  /usr/include/c++/12/iostream /usr/include/c++/12/ostream \
  /usr/include/c++/12/ios /usr/include/c++/12/exception \
  /usr/include/c++/12/bits/exception_ptr.h \
